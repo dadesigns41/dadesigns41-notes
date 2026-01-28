@@ -27,6 +27,6 @@ Notes
 
 Diligentaly working hard on my quest for exposure. My new portfolio is rendered in the browser with dev server and i am really happy with the start of it. I need to finish my bookmark work because we started it but there was a ton more to go through. I will be a lot better off when I have less bookmarks sorted by context. The system I have been using for years and years is out of control. I've been collecting them to no avail w/o a reason.
 
-to-do 9 finish bookmarking
+to-do: finish bookmarking
 
 
