@@ -29,4 +29,16 @@ Diligentaly working hard on my quest for exposure. My new portfolio is rendered 
 
 to-do: finish bookmarking
 
+**Created:** 2026-02-08
+**Last Updated:** 2026-02-08
+**Status:** Draft | Active | Revisited | Archived
+
+---
+
+
+	•	Completed system updates and optimizations.
+	•	Progressed through coursework; developer profile now live and up-to-date.
+	•	Overhauled bookmarking system to use context markers instead of subjects for improved organization and retrieval.
+    •   Switched from Windows to Ubuntu — workflow and dev environment fully functional.
+
 
