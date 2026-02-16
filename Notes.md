@@ -1,44 +1,85 @@
-**Created:** 2026-01-26 
-**Last Updated:** 2026-01-26
-**Status:** Draft | Active | Revisited | Archived
+# Developer Log
 
 ---
 
-Starting to build confidence in my programming skills. I've put so much effort into reasoning/logic/understanding codeblocks without having a clear plan on marketing a skill-set. I need to create a system that will age well and define me as a leader among my peers. Transforming my bookmark system to context-oriented sys should help me be more productive. No more dir filed with clutter-files named to diff tech. I've learned that tech doesn't age well. Principles age well. With this in mind I created two bookmark folders named /transform and /database. These (Tier two directories) will enable me to organize 50% of my bookmarks based on context and by utilizing tags I can still have granular control when I need to narrow things down.
-Notes
+## 2026-01-26
 
-    I’m transforming my bookmark system into a context-oriented system
-    No more directories cluttered with tech-specific names
-    Tech doesn’t age well; principles do
-    I created two top-level bookmark folders:
-        /transform
-        /database
-    These tier-two directories should cover ~50% of my bookmarks
-    Tags give me granular control when I need to narrow things down.
- 
+### What I Built / Changed
+- Began restructuring bookmark system into a context-oriented system.
+- Created two top-level bookmark folders:
+  - `/transform`
+  - `/database`
+- Added tagging layer for granular filtering.
+- Created `Template.md` and added a “Revisited” section for future updates.
 
-    To-Do: create Template.md && add a revisited section if the file is modified at a later point in time. done.
+### What I Learned
+- Tech stacks age quickly; principles age well.
+- Organizing by technology creates long-term clutter.
+- Context > subject naming.
+- Systems should scale with thinking, not just storage.
 
-**Created:** 2026-01-27 
-**Last Updated:** 2026-01-27
-**Status:** Draft | Active | Revisited | Archived
-
----
-
-Diligentaly working hard on my quest for exposure. My new portfolio is rendered in the browser with dev server and i am really happy with the start of it. I need to finish my bookmark work because we started it but there was a ton more to go through. I will be a lot better off when I have less bookmarks sorted by context. The system I have been using for years and years is out of control. I've been collecting them to no avail w/o a reason.
-
-to-do: finish bookmarking
-
-**Created:** 2026-02-08
-**Last Updated:** 2026-02-08
-**Status:** Draft | Active | Revisited | Archived
+### Next Leverage Move
+- Finish migrating remaining bookmarks into the new structure.
+- Validate whether `/transform` and `/database` truly cover ~50% of use cases.
+- Reduce bookmark volume — eliminate passive collecting.
 
 ---
 
+## 2026-01-27
 
-	•	Completed system updates and optimizations.
-	•	Progressed through coursework; developer profile now live and up-to-date.
-	•	Overhauled bookmarking system to use context markers instead of subjects for improved organization and retrieval.
-    •   Switched from Windows to Ubuntu — workflow and dev environment fully functional.
+### What I Built / Changed
+- Continued portfolio development using dev server (browser-rendered).
+- Continued bookmark migration process.
 
+### What I Learned
+- Exposure matters — building publicly increases clarity.
+- Accumulation without intention creates cognitive drag.
+- A clean system improves execution speed.
 
+### Next Leverage Move
+- Finish bookmark overhaul completely.
+- Lock portfolio structure and move from “starter excitement” to disciplined iteration.
+
+---
+
+## 2026-02-08
+
+### What I Built / Changed
+- Completed system updates and optimizations.
+- Developer profile now live and updated.
+- Fully switched from Windows to Ubuntu.
+- Ubuntu dev workflow fully functional.
+- Bookmark system officially context-driven.
+
+### What I Learned
+- Environment matters. Ubuntu aligns better with long-term dev goals.
+- Context markers outperform subject folders.
+- Systems reduce friction more than motivation does.
+
+### Next Leverage Move
+- Tighten Ubuntu environment toward production parity.
+- Reduce unnecessary OS friction.
+- Focus on output rather than system tweaking.
+
+---
+
+## 2026-02-15
+
+### What I Built / Changed
+- Continued configuring Ubuntu dev environment.
+- Worked on portfolio wireframes and defined rough content direction.
+- MailWizz progressing:
+  - Self-contained in single repository.
+  - Separate Dockerfiles for dev and production environments.
+- Continuing degree coursework at Maestro University.
+- Started GenAI course via Zero To Mastery (ahead of degree timeline).
+
+### What I Learned
+- Waiting for curriculum pacing is optional — initiative creates advantage.
+- Separating dev and prod early prevents architectural debt.
+- Clear content direction reduces friction in execution.
+
+### Next Leverage Move
+- Finalize Ubuntu environment stability.
+- Complete MailWizz dev/prod separation cleanly.
+- Establish consistent GenAI study cadence.
