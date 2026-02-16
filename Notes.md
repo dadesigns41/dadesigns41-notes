@@ -83,3 +83,25 @@
 - Finalize Ubuntu environment stability.
 - Complete MailWizz dev/prod separation cleanly.
 - Establish consistent GenAI study cadence.
+
+---
+
+## 🛠️ 2026-02-16
+
+### 🔹 What I Built / Changed
+- Cleaned up bookmarks and removed stale entries  
+- Expanded tagging system for better context and depth  
+- Studied differences between **Vite** and **Rollup**  
+  - Vite provides **dev-tools**; Rollup handles production bundling  
+  - During development, Vite **does not bundle**—bundling happens only for production  
+
+### 🔹 What I Learned
+- Modern dev tooling favors **fast development over immediate bundling**  
+- Understanding tooling philosophy helps structure workflow efficiently  
+- Contextual organization and tagging improves knowledge retrieval  
+
+### 🔹 Next Leverage Move
+- Read and take structured notes on **Tailwind CSS** (portfolio relevance)  
+- Complete **Maestro coursework**  
+- Optional: watch **Zero to Mastery – LLM** lesson  
+
