@@ -98,7 +98,8 @@
 ### 🔹 What I Learned
 - Modern dev tooling favors **fast development over immediate bundling**  
 - Understanding tooling philosophy helps structure workflow efficiently  
-- Contextual organization and tagging improves knowledge retrieval  
+- Contextual organization and tagging improves knowledge retrieval
+- Learned what a code-fence was
 
 ### 🔹 Next Leverage Move
 - Read and take structured notes on **Tailwind CSS** (portfolio relevance)  
