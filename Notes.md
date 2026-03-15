@@ -183,4 +183,36 @@
 
 ---
 
+## 2026-03-14
 
+### session log
+- Continued development work on the MailWizz project infrastructure and repository organization.
+- Finalized the first dev-ready infrastructure release for the MailWizz development stack.
+- Created a GitHub release capturing the stable baseline of the Docker-based development environment.
+- Confirmed repository scope as **infrastructure-only**, separating environment setup from the MailWizz application source.
+- Clarified that the infrastructure repo enables a developer to:
+  - extract the MailWizz source
+  - run the Docker build
+  - launch a fully working development environment with minimal commands.
+- Evaluated repository structure and removed unnecessary files to keep the project lightweight and focused.
+- Moved extended documentation into the **GitHub Wiki** to reduce repository clutter and improve maintainability.
+- Cleaned up README references that previously pointed to documentation files that no longer live inside the repo.
+- Discussed release note wording and milestone naming for the first infrastructure release.
+- Reviewed the role of scaffolding vs runtime configuration during early project development.
+- Continued reinforcing Git workflow discipline around releases, documentation structure, and repository organization.
+
+### concepts
+- Infrastructure repositories should focus on environment provisioning rather than application code.
+- Separating infrastructure from application source improves maintainability and scalability.
+- GitHub Releases can act as stable checkpoints in project evolution.
+- Documentation can live outside the repository (wiki or external docs) to keep repositories smaller and cleaner.
+- Clear repository scope helps avoid mixing infrastructure, runtime artifacts, and application code.
+
+### to-do
+- Create the dedicated repository for the MailWizz application source.
+- Capture the MailWizz source in a clean state **before installer modifications**.
+- Begin preparing customization strategy for MailWizz branding (logo, CSS, and identity).
+- Validate that the infrastructure stack can reliably support a full reinstall from scratch.
+- Continue documenting development progress as portfolio proof-of-work artifacts.
+
+---
