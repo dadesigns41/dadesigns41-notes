@@ -216,3 +216,33 @@
 - Continue documenting development progress as portfolio proof-of-work artifacts.
 
 ---
+
+## 2026-03-16
+
+### session log
+- Continued development work on the MailWizz infrastructure project with focus on repository discipline and runtime environment behavior.
+- Investigated a failure in the MailWizz installer caused by runtime directories being ignored by Git.
+- Determined that ignoring entire runtime directories prevented the installer from creating required filesystem paths after cloning the repository.
+- Identified that Git does not track empty directories, which can break applications that expect runtime paths to exist.
+- Designed a fix using a pattern that ignores directory contents while preserving the directory itself through `.gitkeep` files.
+- Created a formal GitHub issue documenting the problem, cause, and proposed solution.
+- Reviewed best practices for Git repository hygiene, particularly around runtime artifacts and installer expectations.
+- Continued improving engineering documentation through session logs and structured development notes.
+- Experimented with OBS screen recording to capture real development sessions as proof-of-work artifacts for portfolio documentation.
+- Reflected on the importance of recording reasoning and engineering process rather than only final results.
+
+### concepts
+- Git does not track empty directories, which can break installers that expect runtime paths to exist.
+- Runtime directories should exist in the repository structure but their contents should be ignored.
+- Preserving directory structure while ignoring generated files is commonly solved using `.gitkeep` patterns.
+- Documenting problems as GitHub issues creates traceable engineering history within a project.
+- Capturing real development sessions can serve as strong portfolio evidence of engineering discipline and workflow.
+
+### to-do
+- Implement the runtime directory fix using `.gitkeep` placeholders.
+- Test the MailWizz installer after the directory structure fix.
+- Commit and push the fix branch to the repository.
+- Close the GitHub issue once the solution is verified.
+- Continue recording development sessions to build a portfolio of engineering process artifacts.
+
+---
